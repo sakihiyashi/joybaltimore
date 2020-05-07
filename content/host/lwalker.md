@@ -5,7 +5,7 @@ Instagram: ""
 Linkedin: ""
 Pinterest: ""
 Pronouns: ""
-Thumbnail: https://www.arresteddevops.com/img/Bridget.png
+Thumbnail: img/host/lwalker.jpeg
 Title: Lonnie Walker
 Twitter: ""
 Type: host
