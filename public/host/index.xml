@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Here to see who we are? on J.O.Y. Baltimore</title>
+    <link>/host/</link>
+    <description>Recent content in Here to see who we are? on J.O.Y. Baltimore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
+    
+	<atom:link href="/host/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lonnie Walker</title>
+      <link>/host/lwalker/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>/host/lwalker/</guid>
+      <description>Lonnie Walker is the GOAT. period</description>
+    </item>
+    
+    <item>
+      <title>Marcus Henry</title>
+      <link>/host/mhenry/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>/host/mhenry/</guid>
+      <description>Marcus Henry is a cute tabootie :)</description>
+    </item>
+    
+    <item>
+      <title>Sakichi F.T. Hiyashi</title>
+      <link>/host/shiyashi/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>/host/shiyashi/</guid>
+      <description>Sakichi Hiyashi is a beast and likes to play video games.</description>
+    </item>
+    
+  </channel>
+</rss>
