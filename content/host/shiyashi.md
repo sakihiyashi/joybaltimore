@@ -5,7 +5,7 @@ Instagram: ""
 Linkedin: ""
 Pinterest: ""
 Pronouns: ""
-Thumbnail: cloud/project/static/img/host/sakih.jpg
+Thumbnail: img/host/sakih.jpg
 Title: Sakichi F.T. Hiyashi
 Twitter: ""
 Type: host
