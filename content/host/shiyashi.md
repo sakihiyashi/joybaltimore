@@ -1,15 +1,15 @@
 ---
 Facebook: ""
-GitHub: trevorghess
+GitHub: ""
 Instagram: ""
 Linkedin: ""
 Pinterest: ""
 Pronouns: ""
 Thumbnail: https://www.arresteddevops.com/img/trevor.png
-Title: Trevor Hess
-Twitter: trevorghess
+Title: Sakichi F.T. Hiyashi
+Twitter: ""
 Type: host
-Website: ""
+Website: https://bridgetkromhout.com/
 YouTube: ""
 date: "2016-12-08T20:55:58-06:00"
 ---

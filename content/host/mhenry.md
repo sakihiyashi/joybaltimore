@@ -1,17 +1,15 @@
 ---
 Facebook: ""
-GitHub: mattstratton
-Hide: ""
-Instagram: mattstratton
-Linkedin: mattstratton
-Pinterest: mattstratton
+GitHub: ""
+Instagram: ""
+Linkedin: ""
+Pinterest: ""
 Pronouns: ""
 Thumbnail: img/host/matt.png
-Title: Matt Stratton
-Twitch: mattstratton
-Twitter: mattstratton
+Title: Marcus Henrey
+Twitter: ""
 Type: host
-Website: http://www.google.com/
+Website: https://bridgetkromhout.com/
 YouTube: ""
 date: "2016-12-08T20:55:58-06:00"
 ---
