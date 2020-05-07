@@ -1,6 +1,6 @@
 baseurl = "https://joybaltimore.netlify.app/"
 languageCode = "en-us"
-title = "HugoCast"
+title = "J.O.Y. Baltimore"
 theme = "castanet"
 googleAnalytics = ""
 paginate = "9"
