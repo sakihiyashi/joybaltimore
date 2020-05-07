@@ -4,8 +4,8 @@ GitHub: ""
 Instagram: ""
 Linkedin: ""
 Pinterest: ""
-Pronouns: ""
-Thumbnail: img/host/lonnie1.jpg
+Pronouns: "He/Him/His"
+Thumbnail: img/host/lwalker_edit.jpg
 Title: Lonnie Walker
 Twitter: ""
 Type: host

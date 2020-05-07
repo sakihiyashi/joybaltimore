@@ -4,7 +4,7 @@ GitHub: ""
 Instagram: ""
 Linkedin: ""
 Pinterest: ""
-Pronouns: ""
+Pronouns: "He/Him/His"
 Thumbnail: img/host/sakih.jpg
 Title: Sakichi F.T. Hiyashi
 Twitter: ""
