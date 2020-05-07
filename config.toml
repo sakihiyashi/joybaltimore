@@ -133,13 +133,13 @@ disqusShortname = ""
 			thumbnail = "img/host/sakih.jpg"
 			bio = ""
 				[params.authors.Sakichi.social]
-					twitter = "trevorghess"
+					twitter = ""
     [params.authors.Lonnie]
       name = "Lonnie Walker"
       thumbnail = "img/host/lwalker_edit.jpg"
       bio = ""
       [params.authors.Lonnie.social]
-        twitter = "bridgetkromhout"
+        twitter = ""
 
     [params.links]
       [params.links.ado]
