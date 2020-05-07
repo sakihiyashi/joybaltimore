@@ -5,7 +5,7 @@ Instagram: ""
 Linkedin: ""
 Pinterest: ""
 Pronouns: ""
-Thumbnail: img/host/mhenry1.png
+Thumbnail: img/host/mhenrey1.png
 Title: Marcus Henry
 Twitter: ""
 Type: host
