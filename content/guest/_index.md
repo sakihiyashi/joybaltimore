@@ -5,4 +5,4 @@ description: guests of the show
 title: Guests of HugoCast
 ---
 
-Want to be a guest on the HugoCast? Send us an email!
+Want to be a partner or an affiliate of the JB fam? Send us an email!
