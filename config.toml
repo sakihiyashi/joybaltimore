@@ -59,7 +59,7 @@ site_layout = "row"
 enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
-about_logo = "/img/jb_logo.jpg"
+about_logo = "img/jb_logo.jpg"
 copyright_notice = "Copyright 2020 J.O.Y. Baltimore"
 itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
 android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
@@ -128,17 +128,17 @@ disqusShortname = ""
         instagram = "instagram"
         youtube = "mattstratton"
         twitch = "mattstratton"
-    [params.authors.Trevor]
+    [params.authors.Sakichi]
 			name = "Sakichi Hiyashi"
 			thumbnail = "img/host/shiyashi.jpg"
 			bio = ""
-				[params.authors.Trevor.social]
+				[params.authors.Sakichi.social]
 					twitter = "trevorghess"
-    [params.authors.Bridget]
+    [params.authors.Lonnie]
       name = "Lonnie Walker"
       thumbnail = "img/host/lwalker.jpg"
       bio = ""
-      [params.authors.Bridget.social]
+      [params.authors.Lonnie.social]
         twitter = "bridgetkromhout"
 
     [params.links]
