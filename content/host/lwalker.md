@@ -5,7 +5,7 @@ Instagram: ""
 Linkedin: ""
 Pinterest: ""
 Pronouns: ""
-Thumbnail: img/host/lwalker.jpg
+Thumbnail: img/host/lonnie1.jpg
 Title: Lonnie Walker
 Twitter: ""
 Type: host
