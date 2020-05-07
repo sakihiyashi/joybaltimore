@@ -59,7 +59,7 @@ site_layout = "row"
 enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
-# about_logo = "/img/hugocast.png"
+about_logo = "/img/jb_logo.jpg"
 copyright_notice = "Copyright 2020 J.O.Y. Baltimore"
 itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
 android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
@@ -70,18 +70,18 @@ soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:20314
 pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "J.O.Y. Baltimore is one of the few LGBTQ+ organization servicing homeless and runaway youth in the Greater Baltimore City Area."
+description = "J.O.Y. Baltimore is one of the few LGBTQ+ organization servicing homeless and runaway youth in the greater Baltimore City Area."
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
 disqusShortname = ""
   [params.feed]
     copyright = "Copyright 2020 J.O.Y. Baltimore" #do not use markdown in this field; it is used in the feed
-    itunes_subtitle = "The best podcast ever" #no markdown or HTML
-    itunes_author = "Matt Stratton" #no markdown or HTML
+    itunes_subtitle = "The nonprofit to ever do it." #no markdown or HTML
+    itunes_author = "Lonnie Walker" #no markdown or HTML
     itunes_summary = "J.O.Y. Baltimore is one of the few LGBTQ+ organization servicing homeless and runaway youth." # Limited to 4000 characters or less, plain text, no HTML
-    itunes_owner_name = "Matt Stratton"
-    itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_owner_name = "Lonnie Walker"
+    itunes_owner_email = "lwalker@joybaltimore.org" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
     itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
-    itunes_top_category = "Technology"
+    itunes_top_category = "LGBTQ+ Youth"
     itunes_first_sub_category = "Software How-To"
     itunes_second_sub_category = "Tech News"
     language = "en-us"
@@ -129,8 +129,8 @@ disqusShortname = ""
         youtube = "mattstratton"
         twitch = "mattstratton"
     [params.authors.Trevor]
-			name = "Trevor Hess"
-			thumbnail = "https://www.arresteddevops.com/img/trevor.png"
+			name = "Sakichi Hiyashi"
+			thumbnail = "img/host/shiyashi.jpg"
 			bio = ""
 				[params.authors.Trevor.social]
 					twitter = "trevorghess"
