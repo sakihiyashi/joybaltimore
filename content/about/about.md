@@ -4,5 +4,5 @@ description: about this site
 title: about
 ---
 
-## I love my podcast
-You should love it too
+## We Love Our City
+We hope you do too!
