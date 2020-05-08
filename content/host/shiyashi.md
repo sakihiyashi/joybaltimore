@@ -5,8 +5,8 @@ Instagram: ""
 Linkedin: ""
 Pinterest: ""
 Pronouns: ""
-Thumbnail: img/host/mhenrey1.jpg
-Title: Marcus Henry
+Thumbnail: img/host/sakih_edited.jpg
+Title: Sakichi Hiyashi
 Twitter: ""
 Type: host
 Website: https://bridgetkromhout.com/
